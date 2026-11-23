@@ -1,48 +1,48 @@
-# Hi, I'm Ibironke Taiwo Mary 
+# Hello, I am Ibironke Taiwo Mary 
+
+### Healthcare Data Analyst | Registered Nurse (RN), BNSc | Data Storyteller
+
+I bridge the gap between clinical knowledge and data analytics, transforming healthcare data into meaningful insights that support informed decision-making and better healthcare outcomes.
 
 ## About Me
 
-Healthcare Data Analyst with a background in Nursing and a passion for using data to improve healthcare outcomes.
+I am a Registered Nurse and Bachelor of Nursing Science graduate with a professional focus on healthcare data analysis and storytelling.
 
-I specialize in:
-- Power BI
-- Microsoft Excel
-- SQL
-- Data Visualization
-- Healthcare Analytics
-- Health Informatics
+My clinical background gives me an understanding of healthcare beyond numbers. It helps me approach data with clinical context, ask relevant questions and interpret findings in ways that connect with real-world healthcare challenges.
 
-## Featured Projects
-📊 STI Analysis Dashboard
-❤️ Heart Failure Dashboard
-🏥 Apow Health Digital Hypertension Kiosk
+I am passionate about exploring how data can improve patient outcomes, strengthen healthcare systems and support evidence-based decisions.
+
+I believe that data becomes more valuable when we can explain what it means, why it matters and what can be done with it.
 
 ## Technical Skills
-- Power BI
+
+- Microsoft Excel
 - SQL
-- Excel
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-- Report Writing
-- Data storytelling
-- Research
+- Power BI
+- Data Cleaning and Preparation
+- Data Analysis and Visualization
+- Healthcare Data Interpretation
+- Clinical Insight and Data Storytelling
 
-## Education
-🎓 Bachelor of Nursing Science (BNSc)
-Ambrose Alli University (2020–2026)
+## Areas of Interest
 
-## Currently Learning
-- Advanced SQL
- 
+- Healthcare Analytics
+- Patient Outcomes and Quality of Care
+- Clinical Data Analysis
+- Public Health Data
+- Evidence-Based Healthcare
+- Digital Health Innovation
 
-## Connect With Me
-📧 Email: ibironketaiwo09@gmail.com
+## My Projects
 
-💼 LinkedIn:
-www.linkedin.com/in/ibironke-taiwo-mary
+I use practical projects to explore healthcare questions, analyse datasets and communicate findings.
 
-💻 GitHub:
-github.com/Ibironke-Taiwo-Mary
+*Explore my repositories to see my work.*
 
-My priority is-Transforming healthcare data into actionable insights.
+## Let's Connect
+
+- GitHub: github.com/Ibironke-Taiwo-Mary
+- LinkedIn: www.linkedin.com/in/ibironke-taiwo-mary
+- Email: ibironketaiwo09@gmail.com
+
+**Turning healthcare data into insights that matter.**
